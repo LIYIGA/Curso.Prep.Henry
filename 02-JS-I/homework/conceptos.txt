@@ -1,0 +1,5 @@
+variables: espacio que almacena el valor de algo para usarlo despues
+strings: son palabras o frases
+funciones: son instrucciones que vamos a usar con frecuencia, ellas las agrupamos en un solo codigo para luego renutilizarlas
+declaraciones: son condiciones que realizan una accion en caso de ser cierta
+valores booleanos: son los valores verdadero o falso
